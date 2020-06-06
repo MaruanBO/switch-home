@@ -1,0 +1,50 @@
+.btn-outline-primary{
+  border-color: #5900de !important;
+  background-color: white !important;
+  color:#5900de !important;
+}
+
+.btn-outline-primary:hover{
+    background-color: #5900de !important;
+    color: white !important;
+}
+
+.btn-outline-primary:focus {
+    color:white !important;
+    background-color: #5900de !important;
+    box-shadow:0 0 0 .2rem rgba(89,0,222,0.5) !important;
+}
+
+.form-control:focus {
+ border-color: #5900de !important;
+  box-shadow:0 0 0 .2rem rgba(89,0,222,0.5) !important;
+}
+
+.btn-outline-primary:active {
+    color:white !important;
+    background-color: #5900de !important;
+    box-shadow:0 0 0 .2rem rgba(89,0,222,0.5) !important;
+}
+
+.avatar-flip {
+  border-radius: 100px;
+  overflow: hidden;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: -70px;
+  left: 210px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 0 13px #F7F7F7;
+  -webkit-box-shadow: 0 0 0 13px #F7F7F7;
+  -moz-box-shadow: 0 0 0 13px #F7F7F7;
+  background-color: #F7F7F7;
+}
+.row:hover .avatar-flip, .row.hover .avatar-flip {
+    transform: rotateY(180deg);
+}
+.card-body{
+    margin-top:50px;
+}
