@@ -120,7 +120,10 @@ To use simulator just open tab in http://dashboard-switchome.herokuapp.com/ or h
 
 * http://dashboard-switchome.herokuapp.com/
 
-When my presentation finish (24 June) i will give u credentials in this repository please understand, first my teachers need to test all
+Credentials:
+
+* User: test@test.com
+* Password: Profesorado234/ 
 
 ## That i have used? 
 
