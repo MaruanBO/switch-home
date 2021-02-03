@@ -1,5 +1,3 @@
-**OBSOLETE**
-
 <p align="center"><img src="https://i.ibb.co/Lt9NMwg/profile.png" width="200"></p>
 
 <p align="center">
@@ -7,7 +5,7 @@
 <img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License">
 </p>
 
-## About Switch-Home
+## About Switch-Home (OBSOLETE)
 
 >This project it's not finished i just finished because i need present this to my teachears u can do something so cool if u want i only give u the tools and something to start to learning or to do this better :)
 
